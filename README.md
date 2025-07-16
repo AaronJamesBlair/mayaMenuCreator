@@ -1,6 +1,6 @@
 <img width="700" height="599" alt="image" src="https://github.com/user-attachments/assets/a1ae2ac6-09ad-401b-bce7-329027f08463" />
 
-Create custom Maya menus that can be automatically added to Maya's menu bar on launch. Menus can be updated/refreshed in-place when updates arrive without having to relaunch Maya. Using the optionBox next to each menuItem will add that action to your active Maya shelf.
+Create custom Maya menus for sharing tools with a team that can be automatically added to Maya's menu bar on launch. Menus can be updated/refreshed in-place when updates arrive without having to relaunch Maya. Using the optionBox next to each menuItem will add that action to your active Maya shelf.
 
 After creating a menu using aMenuCreator, add it to the menuBar using:
 
